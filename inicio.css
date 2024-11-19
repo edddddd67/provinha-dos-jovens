@@ -1,0 +1,23 @@
+#bem-vindo-ao-vitally{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(53, 170, 224);
+}
+#alarmes-personalizados{
+    color: red;
+    text-align: center;
+    font-size: 33px;
+}
+#metas-personalizadas{
+    color: red;
+    text-align: center;
+    font-size: 33px;
+
+}
+#gestao-personalizada{
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: bold;
+}
